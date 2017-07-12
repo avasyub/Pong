@@ -1,2 +1,2 @@
 # Pong
-Game in python
+Pong Game in Python
